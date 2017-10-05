@@ -17,8 +17,8 @@
     "gst",
     "calc"
   ],
-  "author": "Siddey",
-  "license": "CC0-1.0",
+  "author": "Siddhant Mishra",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
