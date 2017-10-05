@@ -1,4 +1,4 @@
-# gst-calc
+# GST Calc
 A simple GST Calculator with inventory management.
 
 Technologies used : Electron, React, Redis.
