@@ -38,7 +38,9 @@
     "webpack-hot-middleware": "^2.19.1"
   },
   "dependencies": {
+    "pouchdb": "^6.3.4",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.0",
+    "redis": "^2.8.0"
   }
 }

@@ -1,7 +1,7 @@
-# gst-calc
+# GST Calc
 A simple GST Calculator with inventory management.
 
-Technologies used : Electron, React, Redis.
+Technologies used : Electron, React, PouchDB.
 
 How to install
 ---------------
@@ -10,7 +10,7 @@ How to install
 
 How to run
 -----------
-Since Concurrently package is being used simple execute the following command.
+Since Concurrently Package (https://www.npmjs.com/package/concurrently) is being used simply execute the following command.
 
 - npm start
 

@@ -2,7 +2,9 @@ var path = require('path');
 var webpack = require('webpack');
 var express = require('express');
 var config = require('./webpack.config');
-
+var PouchDB = require('pouchdb');
+var db = new PouchDB('calcStore');
+console.log("PouchDB is running.")
 var app = express();
 var compiler = webpack(config);
 
